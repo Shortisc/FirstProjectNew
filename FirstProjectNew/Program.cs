@@ -6,7 +6,7 @@ namespace FirstProjectNew
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(SayHello("Plamen"));
+            Console.WriteLine(SayHello("Mitko"));
         }
 
         private static string SayHello(string name)
